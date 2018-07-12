@@ -7,7 +7,7 @@
 * file-icons v2.1.22 - file-icons
   - File extension icons in project tree
   - Only colour when changed option selected
-* highlight-selected v0.13.1 - richrace
+* highlight-selected v0.14.0 - richrace
   - Styles matching words with a border box when a word is highlighted
 * language-rust v0.4.12 - zargony
   - Syntax highlighting for the Rust langauge
