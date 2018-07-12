@@ -68,3 +68,7 @@
 ## Panes
 
 * `Ctrl+K` `Up/Down/Left/Right` - Split the editor pane horizontally or vertically in the direction of the arrow key pressed
+
+## Markdown
+
+* `Ctrl+Shift+M` - toggle markdown preview
