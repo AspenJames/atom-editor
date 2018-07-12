@@ -8,6 +8,9 @@
 ```
 "*":
   core:
+    packagesWithKeymapsDisabled: [
+      "emmet"
+    ]
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "limited"
     themes: [
@@ -22,7 +25,7 @@
     softWrapAtPreferredLineLength: true
     softWrapHangingIndent: 1
   "exception-reporting":
-    userId:
+    userId: 
   "file-icons":
     onChanges: true
   pigments:
@@ -30,4 +33,5 @@
   "tree-view": {}
   welcome:
     showOnStartup: false
+
 ```
