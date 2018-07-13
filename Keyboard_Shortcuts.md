@@ -68,6 +68,7 @@
 ## Panes
 
 * `Ctrl+K` `Up/Down/Left/Right` - Split the editor pane horizontally or vertically in the direction of the arrow key pressed
+* `Ctrl+K` `Ctrl+Up/Down/Left/Right` - Switch between open panes in the direction of the arrow key pressed
 
 ## Markdown
 
